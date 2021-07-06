@@ -1,0 +1,12 @@
+D:\Practice\dotnet5\microservices\Common\src\Common\bin\Debug\net5.0\Common.deps.json
+D:\Practice\dotnet5\microservices\Common\src\Common\bin\Debug\net5.0\Common.dll
+D:\Practice\dotnet5\microservices\Common\src\Common\bin\Debug\net5.0\ref\Common.dll
+D:\Practice\dotnet5\microservices\Common\src\Common\bin\Debug\net5.0\Common.pdb
+D:\Practice\dotnet5\microservices\Common\src\Common\obj\Debug\net5.0\Common.csprojAssemblyReference.cache
+D:\Practice\dotnet5\microservices\Common\src\Common\obj\Debug\net5.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\dotnet5\microservices\Common\src\Common\obj\Debug\net5.0\Common.AssemblyInfoInputs.cache
+D:\Practice\dotnet5\microservices\Common\src\Common\obj\Debug\net5.0\Common.AssemblyInfo.cs
+D:\Practice\dotnet5\microservices\Common\src\Common\obj\Debug\net5.0\Common.csproj.CoreCompileInputs.cache
+D:\Practice\dotnet5\microservices\Common\src\Common\obj\Debug\net5.0\Common.dll
+D:\Practice\dotnet5\microservices\Common\src\Common\obj\Debug\net5.0\ref\Common.dll
+D:\Practice\dotnet5\microservices\Common\src\Common\obj\Debug\net5.0\Common.pdb

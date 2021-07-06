@@ -1,0 +1,12 @@
+D:\Practice\dotnet5\microservices\Catalog\src\Catalog.Contracts\bin\Debug\net5.0\Catalog.Contracts.deps.json
+D:\Practice\dotnet5\microservices\Catalog\src\Catalog.Contracts\bin\Debug\net5.0\Catalog.Contracts.dll
+D:\Practice\dotnet5\microservices\Catalog\src\Catalog.Contracts\bin\Debug\net5.0\ref\Catalog.Contracts.dll
+D:\Practice\dotnet5\microservices\Catalog\src\Catalog.Contracts\bin\Debug\net5.0\Catalog.Contracts.pdb
+D:\Practice\dotnet5\microservices\Catalog\src\Catalog.Contracts\obj\Debug\net5.0\Catalog.Contracts.csprojAssemblyReference.cache
+D:\Practice\dotnet5\microservices\Catalog\src\Catalog.Contracts\obj\Debug\net5.0\Catalog.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\dotnet5\microservices\Catalog\src\Catalog.Contracts\obj\Debug\net5.0\Catalog.Contracts.AssemblyInfoInputs.cache
+D:\Practice\dotnet5\microservices\Catalog\src\Catalog.Contracts\obj\Debug\net5.0\Catalog.Contracts.AssemblyInfo.cs
+D:\Practice\dotnet5\microservices\Catalog\src\Catalog.Contracts\obj\Debug\net5.0\Catalog.Contracts.csproj.CoreCompileInputs.cache
+D:\Practice\dotnet5\microservices\Catalog\src\Catalog.Contracts\obj\Debug\net5.0\Catalog.Contracts.dll
+D:\Practice\dotnet5\microservices\Catalog\src\Catalog.Contracts\obj\Debug\net5.0\ref\Catalog.Contracts.dll
+D:\Practice\dotnet5\microservices\Catalog\src\Catalog.Contracts\obj\Debug\net5.0\Catalog.Contracts.pdb

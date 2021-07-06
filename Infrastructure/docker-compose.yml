@@ -1,0 +1,37 @@
+
+version: "3.8"
+
+services: 
+    mongo:
+        image: mongo
+        container_name: mongo
+        ports: 
+            - 27017:27017
+        volumes: 
+            - mongodbdata:/data/db
+
+    rabbitmq:
+        image: rabbitmq:management
+        container_name: rabbitmq
+        ports: 
+            - 5672:5672  # this port is used by services to consume messages from rabbitmq
+            - 15672:15672 # this port is used to go to rabbitmq portal
+        volumes: 
+            - rabbitmqdata:/var/lib/rabbitmq
+        hostname: rabbitmq
+
+    sqlserver:
+        image: mcr.microsoft.com/mssql/server:2017-latest
+        container_name: sqlserver
+        environment: 
+            SA_PASSWORD : "<Ashdb123"
+            ACCEPT_EULA: "Y"
+        ports: 
+            - 1433:1433
+        volumes: 
+            - sqldbdata:/data/db
+
+volumes: 
+    mongodbdata:
+    rabbitmqdata:
+    sqldbdata:
